@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "profile_img": "/assets/default-profile.png",
+        "name": "Youssef Farah",
+        "email": "yousseffarah@example.com",
+        "password": "youssef123",
+        "role": "landlord",
+        "phone": "+96181333444",
+        "socialMedia": {
+            "facebook": "facebook.com/youssef",
+            "linkedin": "linkedin.com/in/youssef"
+        }
+    },
+    {
+        "id": 2,
+        "profile_img": "/assets/default-profile.png",
+        "name": "Tony Katrib",
+        "email": "tonykatrib@example.com",
+        "password": "tony123",
+        "role": "landlord",
+        "phone": "+96181111222",
+        "socialMedia": {
+            "facebook": "facebook.com/tony",
+            "linkedin": "linkedin.com/in/tony",
+            "instagram": "instagram.com/tony",
+            "youtube": "youtube.com/tony"
+        }
+    }
+]
